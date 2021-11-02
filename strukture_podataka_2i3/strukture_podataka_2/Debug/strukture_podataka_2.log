@@ -1,0 +1,44 @@
+﻿  strukture_podataka_2.c
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(48,44): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(48,35): warning C4024: 'CitanjePodatakaIzDatoteke': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(69,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(69,22): warning C4024: 'UcitavanjeNaKraj': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(69,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(69,28): warning C4024: 'UcitavanjeNaKraj': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(76,29): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(76,25): warning C4024: 'UcitavanjeNaPocetak': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(76,39): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(76,31): warning C4024: 'UcitavanjeNaPocetak': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(83,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(83,22): warning C4024: 'BrisanjeElementa': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(95,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(95,41): warning C4024: 'PronalazenjeElementaPoPrezimenu': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(100,31): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(100,22): warning C4024: 'UcitavanjeIspred': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(100,37): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(100,33): warning C4024: 'UcitavanjeIspred': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(100,47): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(100,39): warning C4024: 'UcitavanjeIspred': different types for formal and actual parameter 3
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(107,50): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(107,41): warning C4024: 'PronalazenjeElementaPoPrezimenu': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(112,28): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(112,19): warning C4024: 'UcitavanjeIza': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(112,34): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(112,30): warning C4024: 'UcitavanjeIza': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(112,44): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(112,36): warning C4024: 'UcitavanjeIza': different types for formal and actual parameter 3
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(119,39): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(119,30): warning C4024: 'UpisuDatoteku': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(143,47): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(143,38): warning C4024: 'CitanjePodatakaIzDatoteke': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(147,26): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(147,22): warning C4024: 'UcitavanjeNaKraj': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(147,36): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(147,28): warning C4024: 'UcitavanjeNaKraj': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(186,30): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(186,21): warning C4024: 'UcitavanjeNaKraj': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(186,45): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(186,32): warning C4024: 'UcitavanjeNaKraj': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(298,19): warning C4020: 'Zamjena': too many actual parameters
+C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\strukture_podataka_2\strukture_podataka_2.c(322,1): warning C4029: declared formal parameter list different from definition
+  strukture_podataka_2.vcxproj -> C:\Users\Ivona\Desktop\strukture podataka\strukture_podataka_2i3\Debug\strukture_podataka_2.exe
