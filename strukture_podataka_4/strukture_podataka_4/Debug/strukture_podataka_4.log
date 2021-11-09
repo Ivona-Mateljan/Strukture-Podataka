@@ -1,5 +1,5 @@
 ﻿  stukture_podataka_4.c
-C:\Users\Ivona\Desktop\faks\strukture podataka\strukture_podataka_4\strukture_podataka_4\stukture_podataka_4.c(78,23): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[1024]'
-C:\Users\Ivona\Desktop\faks\strukture podataka\strukture_podataka_4\strukture_podataka_4\stukture_podataka_4.c(48,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[1024]'
-C:\Users\Ivona\Desktop\faks\strukture podataka\strukture_podataka_4\strukture_podataka_4\stukture_podataka_4.c(125,18): warning C4047: 'return': 'Pozicija' differs in levels of indirection from 'int'
-  strukture_podataka_4.vcxproj -> C:\Users\Ivona\Desktop\faks\strukture podataka\strukture_podataka_4\Debug\strukture_podataka_4.exe
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_4\strukture_podataka_4\stukture_podataka_4.c(86,23): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_4\strukture_podataka_4\stukture_podataka_4.c(56,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_4\strukture_podataka_4\stukture_podataka_4.c(133,18): warning C4047: 'return': 'Pozicija' differs in levels of indirection from 'int'
+  strukture_podataka_4.vcxproj -> C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_4\Debug\strukture_podataka_4.exe

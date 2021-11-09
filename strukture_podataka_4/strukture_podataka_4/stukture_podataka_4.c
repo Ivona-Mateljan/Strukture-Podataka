@@ -141,6 +141,35 @@ Pozicija StvaranjeNovogElementa(int k, int p)
 
 int Zbrajanje(Pozicija p1, Pozicija p2, Pozicija p_sum)
 {
+    Pozicija k = NULL;
+    
+    while (p1 != NULL && p2 != NULL) {
+        if (p1->pot == p2->pot) {
+            Pozicija novi = StvaranjeNovogElementa(p1->koef + p2->koef, p1->pot);
+            SortiraniUnos(novi, p_sum);
+            p1 = p1->next;
+            p2 = p2->next;
+        }
+        else if (p1->pot < p2->pot) {
+            Pozicija novi = StvaranjeNovogElementa(p1->koef, p1->pot);
+            SortiraniUnos(novi, p_sum);
+            p1 = p1->next;
+        }
+        else if (p1->pot > p2->pot) {
+            Pozicija novi = StvaranjeNovogElementa(p2->koef, p2->pot);
+            SortiraniUnos(novi, p_sum);
+            p2 = p2->next;
+        }
+    }
+
+    if (p2 == NULL) k = p1;
+    else if (p1 == NULL) k = p2;
+
+    while (k != NULL) {
+        Pozicija novi = StvaranjeNovogElementa(k->koef, k->pot);
+        SortiraniUnos(novi, p_sum);
+        k = k->next;
+    }
     return 0;
 }
 
