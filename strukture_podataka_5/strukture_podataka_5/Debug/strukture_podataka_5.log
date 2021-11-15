@@ -1,0 +1,11 @@
+﻿  strukture_podataka_5.c
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(29,23): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(29,14): warning C4024: 'ImeDatoteke': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(30,44): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(30,35): warning C4024: 'CitanjePodatakaIzDatoteke': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(57,20): warning C4047: '=': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(78,34): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[2]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(78,24): warning C4024: 'IzvediOperaciju': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(104,12): warning C4047: 'return': 'Pozicija' differs in levels of indirection from 'int'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\strukture_podataka_5\strukture_podataka_5.c(145): warning C4715: 'IzvediOperaciju': not all control paths return a value
+  strukture_podataka_5.vcxproj -> C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_5\Debug\strukture_podataka_5.exe
