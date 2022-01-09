@@ -1,0 +1,9 @@
+﻿  strukture_podataka_10.c
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\strukture_podataka_10\strukture_podataka_10.c(43,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[11]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\strukture_podataka_10\strukture_podataka_10.c(93,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\strukture_podataka_10\strukture_podataka_10.c(127,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\strukture_podataka_10\strukture_podataka_10.c(128,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\strukture_podataka_10\strukture_podataka_10.c(152,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\strukture_podataka_10\strukture_podataka_10.c(225): warning C4715: 'AddNewCity': not all control paths return a value
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\strukture_podataka_10\strukture_podataka_10.c(281): warning C4715: 'FindMorePopulated': not all control paths return a value
+  strukture_podataka_10.vcxproj -> C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_10\Debug\strukture_podataka_10.exe
