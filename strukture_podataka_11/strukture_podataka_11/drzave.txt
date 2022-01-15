@@ -1,0 +1,9 @@
+Croatia croatia.txt
+Mauritania mauritania.txt
+Brunei brunei.txt
+Palau palau.txt
+Guinea Bissau gb.txt
+Suriname suriname.txt
+Antigua and Barbuda aab.txt
+Vanuatu vanuatu.txt
+Sri Lanka srilanka.txt

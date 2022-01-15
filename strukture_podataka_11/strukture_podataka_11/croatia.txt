@@ -1,0 +1,5 @@
+Zadar 75000
+Zagreb 1000000
+Sinj 24000
+Split 200000
+Vrlika 2000

@@ -1,0 +1,19 @@
+﻿  stukture_podataka_11.c
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(55,30): warning C4047: 'function': 'Position *' differs in levels of indirection from 'Position (*)[11]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(55,19): warning C4024: 'OpenFile': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(60,26): warning C4047: 'function': 'Position *' differs in levels of indirection from 'Position'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(60,23): warning C4024: 'PrintList': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(63,23): warning C4047: 'function': 'Position' differs in levels of indirection from 'Position (*)[11]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(63,12): warning C4024: 'UserInput': different types for formal and actual parameter 1
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(45,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[11]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(145,44): warning C4047: 'function': 'Position *' differs in levels of indirection from 'Position'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(145,31): warning C4024: 'AddNewSorted': different types for formal and actual parameter 2
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(106,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[1024]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(140,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(141,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(166,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[128]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(217,41): warning C4028: formal parameter 2 different from declaration
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(250,24): warning C4028: formal parameter 1 different from declaration
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(271,25): warning C4028: formal parameter 1 different from declaration
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\strukture_podataka_11\stukture_podataka_11.c(248): warning C4715: 'AddNewCity': not all control paths return a value
+  strukture_podataka_11.vcxproj -> C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_11\Debug\strukture_podataka_11.exe
