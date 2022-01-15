@@ -29,7 +29,7 @@ int main()
 	ImeDatoteke(&datoteka);
 	CitanjePodatakaIzDatoteke(&head, &datoteka);
 	Ispis(head.next);
-	
+
 	return 0;
 }
 
@@ -70,7 +70,7 @@ int CitanjePodatakaIzDatoteke(Pozicija head, char* datoteka)
 	}
 
 	while (strlen(p_buffer) != 0) {
-		if((status = sscanf(p_buffer, "%lf %n", &broj, &n)) == 1){
+		if ((status = sscanf(p_buffer, "%lf %n", &broj, &n)) == 1) {
 			Pozicija noviElement = StvaranjeNovogElementa(broj);
 			Push(p, noviElement);
 		}
@@ -124,19 +124,27 @@ int IzvediOperaciju(char* operand, Pozicija p)
 	double broj1 = 0;
 	double broj2 = 0;
 
-	if(Pop(p, &broj1) == -1)
+	if (Pop(p, &broj1) == -1)
 		return -1;
 	if (Pop(p, &broj2) == -1)
 		return -1;
 
 	switch (*operand)
 	{
-	case '+': 
+	case '+':
 		rezultat = StvaranjeNovogElementa(broj2 + broj1);
 		Push(p, rezultat);
 		break;
 	case '*':
 		rezultat = StvaranjeNovogElementa(broj2 * broj1);
+		Push(p, rezultat);
+		break;
+	case '-':
+		rezultat = StvaranjeNovogElementa(broj2 - broj1);
+		Push(p, rezultat);
+		break;
+	case '/':
+		rezultat = StvaranjeNovogElementa(broj2 / broj1);
 		Push(p, rezultat);
 		break;
 	default:
