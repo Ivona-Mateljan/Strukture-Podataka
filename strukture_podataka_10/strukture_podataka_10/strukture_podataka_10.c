@@ -251,7 +251,8 @@ int UserInput(Position head)
 	Position p = head;
 
 	printf("\nEnter name of the country: ");
-	scanf(" %s", country);
+	fgets(country, MAX_LEN, stdin);
+	country[strcspn(country, "\n")] = 0; //strcspn - calculates the length of the initial segment of str1, which consists entirely of characters not in str2
 	printf("\nEnter population number: ");
 	scanf("%d", &population);
 	
@@ -275,7 +276,11 @@ int FindMorePopulated(Pointer city, int population)
 		city_num++;
 		printf("\t%s %d\n", city->name, city->population);
 		if (city->Right != NULL) PrintCities(city->Right);
-		city_num += FindMorePopulated(city->Left, population);
+		if (city->Left != NULL)
+			city_num += FindMorePopulated(city->Left, population);
 	}
-	else return city_num;
+	else if (city->Right != NULL) {
+		city_num += FindMorePopulated(city->Right, population);
+	}
+	return city_num;
 }
