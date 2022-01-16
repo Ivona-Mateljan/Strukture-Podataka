@@ -1,0 +1,5 @@
+﻿  stukture_podataka_9.c
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_9\strukture_podataka_9\stukture_podataka_9.c(34,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[12]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_9\strukture_podataka_9\stukture_podataka_9.c(36,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[11]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_9\strukture_podataka_9\stukture_podataka_9.c(96,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[1024]'
+  strukture_podataka_9.vcxproj -> C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_9\Debug\strukture_podataka_9.exe
