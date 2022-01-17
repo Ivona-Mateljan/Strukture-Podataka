@@ -1,0 +1,4 @@
+﻿  level_order.c
+C:\Users\Ivona\Desktop\Strukture-Podataka\level_order\level_order\level_order.c(42,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[18]'
+C:\Users\Ivona\Desktop\Strukture-Podataka\level_order\level_order\level_order.c(75,1): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'char (*)[1024]'
+  level_order.vcxproj -> C:\Users\Ivona\Desktop\Strukture-Podataka\level_order\Debug\level_order.exe
