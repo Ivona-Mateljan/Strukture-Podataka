@@ -1,0 +1,6 @@
+﻿  strukture_podataka_7.c
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_7\strukture_podataka_7\strukture_podataka_7.c(96,45): warning C4047: '=': 'Tree' differs in levels of indirection from 'Tree *'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_7\strukture_podataka_7\strukture_podataka_7.c(111,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'Tree'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_7\strukture_podataka_7\strukture_podataka_7.c(117,10): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'Tree'
+C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_7\strukture_podataka_7\strukture_podataka_7.c(133): warning C4715: 'ChangeDirectory': not all control paths return a value
+  strukture_podataka_7.vcxproj -> C:\Users\Ivona\Desktop\Strukture-Podataka\strukture_podataka_7\Debug\strukture_podataka_7.exe
